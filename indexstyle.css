@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:arial bold;
+}
+#header{
+    background-color: white;
+    width:100%;
+    height:80px;
+    font-size: 40px;
+}
+#artysci{
+    margin-left:100px;
+    margin-top:-70px;
+    font-family: Segoe Script;
+}
+#logo{
+    width:60px;
+    height:60px;
+    margin-top:10px;
+    margin-left:20px;
+}
+#main{
+    background-image: url(mountain.jpg);
+    width:100%;
+    height:700px;
+    background-size: 100% 700px;
+    color:white;
+}
+#wyraz{
+    font-size:100px;
+    position:relative;
+    top:40px;
+}
+#mainnapisy{
+    width:50%;
+    height:300px;
+    border-radius:50px;
+    position:relative;
+    background-color: rgba(0,50,73,0.9);
+    top:100px;
+    left:-10%;
+}
+#onas{
+    width:35%;
+    height:380px;
+    border-radius:50px;
+    position:relative;
+    background-color: rgba(0,50,73,0.9);
+    top:-250px;
+    left:60%;
+}
+#zarejestruj{
+    background-color: rgba(0,50,73,0.9);
+    position:relative;
+    width:15%;
+    height:60px;
+    border-radius:20px;
+    left:80%;
+    top:-240px;
+}
+#zaloguj{
+    background-color: rgba(0,50,73,0.9);
+    position:relative;
+    width:15%;
+    height:60px;
+    border-radius:20px;
+    left:60%;
+    top:-300px;
+}
+a{
+    width:15%;
+    height:60px;
+    color:white;
+    text-decoration: none;
+    font-size:20px;
+    font-family: Cascadia Code SemiBold;
+}
+#zaloguja{
+    position:relative;
+    left:30px;
+    top:15px;
+}
+#zarejestruja{
+position:relative;
+left:7px;
+top:15px;
+}
+#onastekst{
+    margin-left:40%;
+}
+#onasparagraf{
+    text-align: center;
+}
+#zaloguj:hover{
+    background-color: #65a1d7;
+}
+#zarejestruj:hover{
+    background-color: #65a1d7;
+}
